@@ -1,0 +1,35 @@
+* {
+  font-family: Helvetica;
+}
+
+h1, h2, h3, span{
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url('/Users/fordprefect/Documents/projects/DasmotosProject/resources/pictures/pattern.jpeg');
+}
+
+h2 {
+  font-size: 32px;
+  color: white;
+}
+
+h2.brushes {
+  background-color: mediumspringgreen;
+}
+
+h2.frames {
+  background-color: lightcoral;
+}
+
+h2.paint {
+  background-color: skyblue;
+}
+
+span {
+  color: blue;
+}
